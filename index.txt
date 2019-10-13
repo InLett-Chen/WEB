@@ -2,6 +2,6 @@ aaaaaaa
 bbbbbbb
 cccccccccccc---- 我是game分支我觉得这块算法有问题做了修改
 ddddddd
-eeeeeee
+eeeeeee-----master到此一游
 fffff
 gggg
